@@ -1,14 +1,17 @@
-https://github.com/user-attachments/assets/f6b48da8-5ca4-4822-bf9a-7322c0dec823
+https://github.com/user-attachments/assets/81f2ff8e-ca82-46ed-b3dc-58e0dfc8f36e
 
-### Understand how real online products make money.
+# AISIDE · 小生意，大可能。
 
-AISIDE helps independent builders research customer demand, pricing, customer acquisition, and AI business opportunities.
+**Research real businesses. Find your next move.**
 
-- **[Explore product research](https://aiside.day/en/reports)** — learn who pays, what they pay for, and how products grow.
-- **[Read AI Monetization Weekly](https://aiside.day/en/weekly)** — explore business cases from Reddit, X, and YouTube.
-- **[Start with PromptWise](https://aiside.day/en/reports/promptwise)** — a sample product report.
-- **[Follow updates & share feedback](https://github.com/A1SIDE/aiside.day)** — release notes, bug reports, and ideas.
+1,500+ bilingual reports · 2,100+ AI business cases · 7,800+ product profiles · 32 weekly issues.
 
-Made for independent minds. Available in **[English](https://aiside.day/en)** and **[中文](https://aiside.day/zh)**.
+We research who pays, how products reach customers, and how the business works—through operating data, pricing, growth analysis and linked sources.
 
-AISIDE 的官方 GitHub 账号。研究真实产品的商业模式，分享更新，收集建议。网站应用源码未在此公开。
+[Explore AISIDE](https://aiside.day/en/reports) · [中文研究库](https://aiside.day/zh/reports) · [Read PromptWise](https://aiside.day/en/reports/promptwise) · [Updates & feedback](https://github.com/A1SIDE/aiside.day)
+
+[![Inside an AISIDE research report](https://raw.githubusercontent.com/A1SIDE/aiside.day/main/assets/report-depth-en.png)](https://aiside.day/en/reports/promptwise)
+
+**以真实生意为起点。** 看产品、收入、获客和定价；在 YouTube、Reddit 与 X 的经营案例中寻找值得研究的问题，再把有用的做法带回自己的工作。
+
+Catalog counts are a November 11, 2026 snapshot; language versions count once. This profile links to AISIDE's research product and community repository, not an open-source release of the website.
