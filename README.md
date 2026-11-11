@@ -1,4 +1,6 @@
-[![AISIDE — Small ideas. Real possibilities.](https://raw.githubusercontent.com/A1SIDE/aiside.day/main/assets/banner.svg)](https://aiside.day/en)
+[![AISIDE — Small ideas. Real possibilities.](https://raw.githubusercontent.com/A1SIDE/aiside.day/main/assets/aiside-promo-cover.png)](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4)
+
+[Watch the film · 观看 40 秒宣传片](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4)
 
 ### Understand how real online products make money.
 
