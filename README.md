@@ -15,3 +15,5 @@ We research who pays, how products reach customers, and how the business works�
 **以真实生意为起点。** 看产品、收入、获客和定价；在 YouTube、Reddit 与 X 的经营案例中寻找值得研究的问题，再把有用的做法带回自己的工作。
 
 Catalog counts are a November 11, 2026 snapshot; language versions count once. This profile links to AISIDE's research product and community repository, not an open-source release of the website.
+
+[Explore 216 curated Chrome extensions](https://aiside.day/en/discover) · 16 published reports pinned · Full catalog available.
