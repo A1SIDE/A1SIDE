@@ -16,4 +16,4 @@ We research who pays, how products reach customers, and how the business works鈥
 
 Catalog counts are a November 11, 2026 snapshot; language versions count once. This profile links to AISIDE's research product and community repository, not an open-source release of the website.
 
-[Explore 216 curated Chrome extensions](https://aiside.day/en/discover) 路 16 published reports pinned 路 Full catalog available.
+[Explore 216 curated Chrome extensions](https://aiside.day/en/projects) 路 16 published reports pinned 路 Full catalog available.
